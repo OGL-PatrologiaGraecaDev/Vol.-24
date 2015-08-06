@@ -1,0 +1,12 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/24/uva.x004246623/623.png"; bbox 0 0 4072 6424; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3630 70 4033 527">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3634 74 4029 527">
+     <span class='ocr_line' id='line_1_1' title="bbox 3642 74 3917 133; baseline 0.007 -52"><span class='ocrx_word' id='word_1_1' title='bbox 3642 122 3649 133; x_wconf 28' lang='grc' dir='ltr'><strong>ν</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 3704 78 3707 81; x_wconf 87' lang='grc'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 3754 74 3917 109; x_wconf 51' lang='grc' dir='ltr'><em>νῦν</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 3634 74 4029 527; baseline 0.005 -298"><span class='ocrx_word' id='word_1_4' title='bbox 3634 74 4029 527; x_wconf 57' lang='grc' dir='ltr'><em>θωτζηῖ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 4010 354 4013 377; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 4010 354 4013 377; x_wconf 77' lang='lat' dir='ltr'><strong>l</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
